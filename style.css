@@ -35,6 +35,8 @@ nav ul li a:hover{
 section{
     color: white;
     margin: 30px;
+    align-items: center;
+    margin-top: 50px;
 }
 
 .titulo{
@@ -43,6 +45,34 @@ section{
 
 .familia-gracie{
     display: flex;
+}
+
+section img{
+    width: 400px;
+    height: 250px;
+    margin-right: 30px;
+    margin-left: 70px;
+}
+
+.flex{
+    display: flex;
+}
+
+.borda{
+    border: 3px white solid;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 15px;
+}
+
+.imagem-kimono img{
+    width: 500px;
+    height: 600px;
+}
+
+.alinhamento{ 
+    text-align: center;
+    max-width: 800px;
 }
 
 
