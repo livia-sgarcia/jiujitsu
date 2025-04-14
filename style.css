@@ -1,0 +1,50 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(49, 73, 124);
+}
+
+nav{
+    background-color: rgb(73, 89, 143);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav img{
+    width: 150px;
+}
+
+nav ul{
+    display: flex;
+    gap: 70px;
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav ul li a{
+    color: white;
+    font-size: 1.5em;
+}
+
+nav ul li a:hover{
+    color: rgb(43, 147, 245);
+}
+
+section{
+    color: white;
+    margin: 30px;
+}
+
+.titulo{
+    font-size: 2.0em;
+}
+
+.familia-gracie{
+    display: flex;
+}
+
+
+
+
